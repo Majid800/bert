@@ -1,0 +1,4457 @@
+[
+{
+  "text": "I'm 24 and my asthma symptoms bother me four days a week.",
+  "id": 77,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "24",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 40,
+      "end": 56,
+      "text": "four days a week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 93,
+  "created_at": "2026-10-07T01:23:48.579397Z",
+  "updated_at": "2026-10-07T01:23:48.579397Z",
+  "lead_time": 855.141
+},
+{
+  "text": "My asthma wakes me twice a week.",
+  "id": 78,
+  "label": [
+    {
+      "start": 19,
+      "end": 31,
+      "text": "twice a week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 94,
+  "created_at": "2026-10-07T01:24:25.332446Z",
+  "updated_at": "2026-10-07T01:24:25.332446Z",
+  "lead_time": 17.141
+},
+{
+  "text": "14-year-old patient reports wheezing three days each week.",
+  "id": 79,
+  "label": [
+    {
+      "start": 0,
+      "end": 11,
+      "text": "14-year-old",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 37,
+      "end": 57,
+      "text": "three days each week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 95,
+  "created_at": "2026-10-07T01:25:06.471258Z",
+  "updated_at": "2026-10-07T01:25:06.471258Z",
+  "lead_time": 21.93
+},
+{
+  "text": "I'm 31, get asthma symptoms most weekdays, and wake because of asthma two nights a week.",
+  "id": 80,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "31",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 27,
+      "end": 41,
+      "text": " most weekdays",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 69,
+      "end": 87,
+      "text": " two nights a week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 96,
+  "created_at": "2026-10-07T01:27:53.537749Z",
+  "updated_at": "2026-10-07T01:27:53.537749Z",
+  "lead_time": 166.595
+},
+{
+  "text": "Patient aged 47 reports symptoms five days per week.",
+  "id": 81,
+  "label": [
+    {
+      "start": 13,
+      "end": 15,
+      "text": "47",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 32,
+      "end": 51,
+      "text": " five days per week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 97,
+  "created_at": "2026-10-07T01:28:03.598510Z",
+  "updated_at": "2026-10-07T01:28:03.598510Z",
+  "lead_time": 9.741
+},
+{
+  "text": "I usually wake with asthma three nights a week.",
+  "id": 82,
+  "label": [
+    {
+      "start": 27,
+      "end": 46,
+      "text": "three nights a week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 98,
+  "created_at": "2026-10-07T01:28:11.389074Z",
+  "updated_at": "2026-10-07T01:28:11.389074Z",
+  "lead_time": 7.467
+},
+{
+  "text": "I'm 19 and only get asthma symptoms once or twice each week.",
+  "id": 83,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "19",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 36,
+      "end": 59,
+      "text": "once or twice each week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 99,
+  "created_at": "2026-10-07T01:28:48.298495Z",
+  "updated_at": "2026-10-07T01:28:48.298495Z",
+  "lead_time": 36.613
+},
+{
+  "text": "My asthma causes symptoms every day and wakes me one night most weeks.",
+  "id": 84,
+  "label": [
+    {
+      "start": 26,
+      "end": 35,
+      "text": "every day",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 49,
+      "end": 69,
+      "text": "one night most weeks",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 100,
+  "created_at": "2026-10-07T01:29:05.609965Z",
+  "updated_at": "2026-10-07T01:29:05.609965Z",
+  "lead_time": 16.988
+},
+{
+  "text": "26yo with asthma symptoms four days out of seven.",
+  "id": 85,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "26yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 26,
+      "end": 48,
+      "text": "four days out of seven",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 101,
+  "created_at": "2026-10-07T01:29:19.116857Z",
+  "updated_at": "2026-10-07T01:29:19.116857Z",
+  "lead_time": 13.192
+},
+{
+  "text": "I'm 38 and asthma wakes me most nights.",
+  "id": 86,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "38",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 27,
+      "end": 38,
+      "text": "most nights",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 102,
+  "created_at": "2026-10-07T01:29:29.720992Z",
+  "updated_at": "2026-10-07T01:29:29.720992Z",
+  "lead_time": 10.264
+},
+{
+  "text": "Symptoms occur three days per week.",
+  "id": 87,
+  "label": [
+    {
+      "start": 15,
+      "end": 34,
+      "text": "three days per week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 103,
+  "created_at": "2026-10-07T01:29:40.665032Z",
+  "updated_at": "2026-10-07T01:29:40.665032Z",
+  "lead_time": 10.56
+},
+{
+  "text": "I'm 52. I wake wheezing around once a week.",
+  "id": 88,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "52",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 31,
+      "end": 42,
+      "text": "once a week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 104,
+  "created_at": "2026-10-07T01:29:55.650344Z",
+  "updated_at": "2026-10-07T01:29:55.650344Z",
+  "lead_time": 14.689
+},
+{
+  "text": "17-year-old with symptoms six days a week and night waking twice weekly.",
+  "id": 89,
+  "label": [
+    {
+      "start": 0,
+      "end": 11,
+      "text": "17-year-old",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 26,
+      "end": 41,
+      "text": "six days a week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 59,
+      "end": 71,
+      "text": "twice weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 105,
+  "created_at": "2026-10-07T01:30:19.156425Z",
+  "updated_at": "2026-10-07T01:30:19.156425Z",
+  "lead_time": 23.225
+},
+{
+  "text": "My chest gets tight about two days a week.",
+  "id": 90,
+  "label": [
+    {
+      "start": 26,
+      "end": 41,
+      "text": "two days a week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 106,
+  "created_at": "2026-10-07T01:30:26.983082Z",
+  "updated_at": "2026-10-07T01:30:26.983082Z",
+  "lead_time": 7.533
+},
+{
+  "text": "Asthma wakes me every night.",
+  "id": 91,
+  "label": [
+    {
+      "start": 16,
+      "end": 27,
+      "text": "every night",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 107,
+  "created_at": "2026-10-07T01:30:34.128809Z",
+  "updated_at": "2026-10-07T01:30:34.128809Z",
+  "lead_time": 6.86
+},
+{
+  "text": "I'm 29. Symptoms are present five days a week and asthma wakes me twice weekly.",
+  "id": 92,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "29",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 29,
+      "end": 45,
+      "text": "five days a week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 66,
+      "end": 78,
+      "text": "twice weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 108,
+  "created_at": "2026-10-07T01:30:59.371368Z",
+  "updated_at": "2026-10-07T01:30:59.371368Z",
+  "lead_time": 24.931
+},
+{
+  "text": "Patient is aged 63 and reports asthma symptoms once weekly.",
+  "id": 93,
+  "label": [
+    {
+      "start": 16,
+      "end": 18,
+      "text": "63",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 47,
+      "end": 58,
+      "text": "once weekly",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 109,
+  "created_at": "2026-10-07T01:31:16.329100Z",
+  "updated_at": "2026-10-07T01:31:16.329100Z",
+  "lead_time": 16.628
+},
+{
+  "text": "I wake coughing because of asthma four nights each week.",
+  "id": 94,
+  "label": [
+    {
+      "start": 34,
+      "end": 55,
+      "text": "four nights each week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 110,
+  "created_at": "2026-10-07T01:31:23.120635Z",
+  "updated_at": "2026-10-07T01:31:23.120635Z",
+  "lead_time": 6.464
+},
+{
+  "text": "I'm 21 and generally have symptoms three days out of seven.",
+  "id": 95,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "21",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 35,
+      "end": 58,
+      "text": "three days out of seven",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 111,
+  "created_at": "2026-10-07T01:31:39.349548Z",
+  "updated_at": "2026-10-07T01:31:39.349548Z",
+  "lead_time": 15.922
+},
+{
+  "text": "45yo patient reports symptoms most days and asthma-related waking three nights weekly.",
+  "id": 96,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "45yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 30,
+      "end": 39,
+      "text": "most days",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 66,
+      "end": 85,
+      "text": "three nights weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 112,
+  "created_at": "2026-10-07T01:31:59.744936Z",
+  "updated_at": "2026-10-07T01:31:59.744936Z",
+  "lead_time": 20.094
+},
+{
+  "text": "I'm 33 and symptoms bother me twice a week.",
+  "id": 97,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "33",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 30,
+      "end": 42,
+      "text": "twice a week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 113,
+  "created_at": "2026-10-07T01:32:10.119721Z",
+  "updated_at": "2026-10-07T01:32:10.119721Z",
+  "lead_time": 10.094
+},
+{
+  "text": "Patient aged 58 reports waking due to wheeze one night per week.",
+  "id": 98,
+  "label": [
+    {
+      "start": 13,
+      "end": 15,
+      "text": "58",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 45,
+      "end": 63,
+      "text": "one night per week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 114,
+  "created_at": "2026-10-07T01:32:33.674728Z",
+  "updated_at": "2026-10-07T01:32:33.674728Z",
+  "lead_time": 23.224
+},
+{
+  "text": "I have asthma symptoms four days each week and they wake me two nights most weeks.",
+  "id": 99,
+  "label": [
+    {
+      "start": 23,
+      "end": 42,
+      "text": "four days each week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 60,
+      "end": 81,
+      "text": "two nights most weeks",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 115,
+  "created_at": "2026-10-07T01:32:44.896712Z",
+  "updated_at": "2026-10-07T01:32:44.896712Z",
+  "lead_time": 10.882
+},
+{
+  "text": "16-year-old patient experiences symptoms every day.",
+  "id": 100,
+  "label": [
+    {
+      "start": 0,
+      "end": 11,
+      "text": "16-year-old",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 41,
+      "end": 50,
+      "text": "every day",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 116,
+  "created_at": "2026-10-07T01:32:55.195982Z",
+  "updated_at": "2026-10-07T01:32:55.195982Z",
+  "lead_time": 9.97
+},
+{
+  "text": "I'm 41. Asthma wakes me five nights per week but daytime symptoms happen twice weekly.",
+  "id": 101,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "41",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 24,
+      "end": 44,
+      "text": "five nights per week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    },
+    {
+      "start": 73,
+      "end": 85,
+      "text": "twice weekly",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 117,
+  "created_at": "2026-10-07T01:33:13.687527Z",
+  "updated_at": "2026-10-07T01:33:13.687527Z",
+  "lead_time": 18.133
+},
+{
+  "text": "Asthma symptoms bother me six days out of seven.",
+  "id": 102,
+  "label": [
+    {
+      "start": 26,
+      "end": 47,
+      "text": "six days out of seven",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 118,
+  "created_at": "2026-10-07T01:33:21.777876Z",
+  "updated_at": "2026-10-07T01:33:21.777876Z",
+  "lead_time": 7.743
+},
+{
+  "text": "36yo, waking with asthma twice weekly and experiencing symptoms four days per week.",
+  "id": 103,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "36yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 25,
+      "end": 37,
+      "text": "twice weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    },
+    {
+      "start": 64,
+      "end": 82,
+      "text": "four days per week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 119,
+  "created_at": "2026-10-07T01:33:44.297928Z",
+  "updated_at": "2026-10-07T01:33:44.297928Z",
+  "lead_time": 22.213
+},
+{
+  "text": "I'm 22 and my asthma is troublesome one day a week.",
+  "id": 104,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "22",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 36,
+      "end": 50,
+      "text": "one day a week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 120,
+  "created_at": "2026-10-07T01:33:56.269989Z",
+  "updated_at": "2026-10-07T01:33:56.269989Z",
+  "lead_time": 11.646
+},
+{
+  "text": "My asthma wakes me once every week.",
+  "id": 105,
+  "label": [
+    {
+      "start": 19,
+      "end": 34,
+      "text": "once every week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 121,
+  "created_at": "2026-10-07T01:34:02.457374Z",
+  "updated_at": "2026-10-07T01:34:02.457374Z",
+  "lead_time": 5.871
+},
+{
+  "text": "I'm 18, symptoms occur three days weekly, and I wake with wheezing one night most weeks.",
+  "id": 106,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "18",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 23,
+      "end": 40,
+      "text": "three days weekly",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 67,
+      "end": 87,
+      "text": "one night most weeks",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 122,
+  "created_at": "2026-10-07T01:34:21.089168Z",
+  "updated_at": "2026-10-07T01:34:21.089168Z",
+  "lead_time": 18.308
+},
+{
+  "text": "I tend to have asthma symptoms five days in a typical week.",
+  "id": 107,
+  "label": [
+    {
+      "start": 31,
+      "end": 58,
+      "text": "five days in a typical week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 123,
+  "created_at": "2026-10-07T01:34:34.137325Z",
+  "updated_at": "2026-10-07T01:34:34.137325Z",
+  "lead_time": 12.69
+},
+{
+  "text": "72-year-old patient reports being woken by asthma three nights each week.",
+  "id": 108,
+  "label": [
+    {
+      "start": 0,
+      "end": 11,
+      "text": "72-year-old",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 50,
+      "end": 72,
+      "text": "three nights each week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 124,
+  "created_at": "2026-10-07T01:34:57.990711Z",
+  "updated_at": "2026-10-07T01:34:57.990711Z",
+  "lead_time": 21.419
+},
+{
+  "text": "I'm 25. Symptoms occur twice a week and asthma wakes me one night weekly.",
+  "id": 109,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "25",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 23,
+      "end": 35,
+      "text": "twice a week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 56,
+      "end": 72,
+      "text": "one night weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 125,
+  "created_at": "2026-10-07T01:35:11.649701Z",
+  "updated_at": "2026-10-07T01:35:11.649701Z",
+  "lead_time": 13.341
+},
+{
+  "text": "Most days I have wheezing or chest tightness from asthma.",
+  "id": 110,
+  "label": [
+    {
+      "start": 0,
+      "end": 9,
+      "text": "Most days",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 126,
+  "created_at": "2026-10-07T01:35:21.559747Z",
+  "updated_at": "2026-10-07T01:35:21.559747Z",
+  "lead_time": 9.611
+},
+{
+  "text": "My asthma wakes me six nights out of seven.",
+  "id": 111,
+  "label": [
+    {
+      "start": 19,
+      "end": 42,
+      "text": "six nights out of seven",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 127,
+  "created_at": "2026-10-07T01:35:29.399547Z",
+  "updated_at": "2026-10-07T01:35:29.399547Z",
+  "lead_time": 7.548
+},
+{
+  "text": "I'm 30 and have symptoms four days per week, with asthma waking me twice weekly.",
+  "id": 112,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "30",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 25,
+      "end": 43,
+      "text": "four days per week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 67,
+      "end": 79,
+      "text": "twice weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 128,
+  "created_at": "2026-10-07T01:35:45.607703Z",
+  "updated_at": "2026-10-07T01:35:45.614322Z",
+  "lead_time": 15.917
+},
+{
+  "text": "Patient aged 44 experiences asthma symptoms two days weekly.",
+  "id": 113,
+  "label": [
+    {
+      "start": 13,
+      "end": 15,
+      "text": "44",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 44,
+      "end": 59,
+      "text": "two days weekly",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 129,
+  "created_at": "2026-10-07T01:35:56.371426Z",
+  "updated_at": "2026-10-07T01:35:56.371426Z",
+  "lead_time": 10.411
+},
+{
+  "text": "I normally wake due to asthma twice during a typical week.",
+  "id": 114,
+  "label": [
+    {
+      "start": 30,
+      "end": 57,
+      "text": "twice during a typical week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 130,
+  "created_at": "2026-10-07T01:36:07.517190Z",
+  "updated_at": "2026-10-07T01:36:07.517190Z",
+  "lead_time": 10.81
+},
+{
+  "text": "15yo with symptoms five days per week and waking with asthma most nights.",
+  "id": 115,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "15yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 19,
+      "end": 37,
+      "text": "five days per week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 61,
+      "end": 72,
+      "text": "most nights",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 131,
+  "created_at": "2026-10-07T01:36:22.204246Z",
+  "updated_at": "2026-10-07T01:36:22.204246Z",
+  "lead_time": 14.38
+},
+{
+  "text": "My symptoms usually show up three times during the week.",
+  "id": 116,
+  "label": [
+    {
+      "start": 28,
+      "end": 55,
+      "text": "three times during the week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 132,
+  "created_at": "2026-10-07T01:36:31.919193Z",
+  "updated_at": "2026-10-07T01:36:31.919193Z",
+  "lead_time": 9.454
+},
+{
+  "text": "28-year-old patient reports asthma waking them one or two nights each week.",
+  "id": 117,
+  "label": [
+    {
+      "start": 0,
+      "end": 11,
+      "text": "28-year-old",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 47,
+      "end": 74,
+      "text": "one or two nights each week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 133,
+  "created_at": "2026-10-07T01:36:43.287522Z",
+  "updated_at": "2026-10-07T01:36:43.287522Z",
+  "lead_time": 11.043
+},
+{
+  "text": "I'm 35 and get wheezy nearly every day.",
+  "id": 118,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "35",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 29,
+      "end": 38,
+      "text": "every day",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 134,
+  "created_at": "2026-10-07T01:36:50.467334Z",
+  "updated_at": "2026-10-07T01:36:50.467334Z",
+  "lead_time": 6.839
+},
+{
+  "text": "Symptoms occur once weekly and asthma wakes me about twice a month.",
+  "id": 119,
+  "label": [
+    {
+      "start": 15,
+      "end": 26,
+      "text": "once weekly",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 53,
+      "end": 66,
+      "text": "twice a month",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 135,
+  "created_at": "2026-10-07T01:37:01.154932Z",
+  "updated_at": "2026-10-07T01:37:01.154932Z",
+  "lead_time": 10.356
+},
+{
+  "text": "54yo. Asthma wakes me four nights a week.",
+  "id": 120,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "54yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 22,
+      "end": 40,
+      "text": "four nights a week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 136,
+  "created_at": "2026-10-07T01:37:13.702985Z",
+  "updated_at": "2026-10-07T01:37:13.702985Z",
+  "lead_time": 12.247
+},
+{
+  "text": "Age 23, with asthma symptoms on three days each week.",
+  "id": 121,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "23",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 32,
+      "end": 52,
+      "text": "three days each week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 137,
+  "created_at": "2026-10-07T01:37:22.321334Z",
+  "updated_at": "2026-10-07T01:37:22.321334Z",
+  "lead_time": 8.267
+},
+{
+  "text": "Asthma wakes me roughly two nights out of seven.",
+  "id": 122,
+  "label": [
+    {
+      "start": 24,
+      "end": 47,
+      "text": "two nights out of seven",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 138,
+  "created_at": "2026-10-07T01:37:31.536779Z",
+  "updated_at": "2026-10-07T01:37:31.536779Z",
+  "lead_time": 8.879
+},
+{
+  "text": "I'm 62; symptoms affect me every day and wake me three nights weekly.",
+  "id": 123,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "62",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 27,
+      "end": 36,
+      "text": "every day",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 49,
+      "end": 68,
+      "text": "three nights weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 139,
+  "created_at": "2026-10-07T01:37:48.014684Z",
+  "updated_at": "2026-10-07T01:37:48.014684Z",
+  "lead_time": 16.146
+},
+{
+  "text": "19yo reports wheeze on two days per week and no other daytime symptoms.",
+  "id": 124,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "19yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 23,
+      "end": 40,
+      "text": "two days per week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 140,
+  "created_at": "2026-10-07T01:38:07.242891Z",
+  "updated_at": "2026-10-07T01:38:07.242891Z",
+  "lead_time": 18.868
+},
+{
+  "text": "I am 40 years old and asthma wakes me around four nights each week.",
+  "id": 125,
+  "label": [
+    {
+      "start": 5,
+      "end": 7,
+      "text": "40",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 45,
+      "end": 66,
+      "text": "four nights each week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 141,
+  "created_at": "2026-10-07T01:38:18.340506Z",
+  "updated_at": "2026-10-07T01:38:18.340506Z",
+  "lead_time": 10.748
+},
+{
+  "text": "Patient aged 55 has symptoms approximately once weekly.",
+  "id": 126,
+  "label": [
+    {
+      "start": 13,
+      "end": 15,
+      "text": "55",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 43,
+      "end": 54,
+      "text": "once weekly",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 142,
+  "created_at": "2026-10-07T01:38:28.222022Z",
+  "updated_at": "2026-10-07T01:38:28.222022Z",
+  "lead_time": 9.545
+},
+{
+  "text": "At 27, I get asthma symptoms on about half the days in a week.",
+  "id": 127,
+  "label": [
+    {
+      "start": 3,
+      "end": 5,
+      "text": "27",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 38,
+      "end": 61,
+      "text": "half the days in a week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 143,
+  "created_at": "2026-10-07T01:38:42.312014Z",
+  "updated_at": "2026-10-07T01:38:42.312014Z",
+  "lead_time": 13.776
+},
+{
+  "text": "I'm 68 and wake with asthma five nights most weeks.",
+  "id": 128,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "68",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 28,
+      "end": 50,
+      "text": "five nights most weeks",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 144,
+  "created_at": "2026-10-07T01:38:49.485535Z",
+  "updated_at": "2026-10-07T01:38:49.485535Z",
+  "lead_time": 6.892
+},
+{
+  "text": "13-year-old patient reports symptoms one day per week.",
+  "id": 129,
+  "label": [
+    {
+      "start": 0,
+      "end": 11,
+      "text": "13-year-old",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 37,
+      "end": 53,
+      "text": "one day per week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 145,
+  "created_at": "2026-10-07T01:39:00.804607Z",
+  "updated_at": "2026-10-07T01:39:00.804607Z",
+  "lead_time": 11.002
+},
+{
+  "text": "34yo reports symptoms four days weekly and nocturnal waking once weekly.",
+  "id": 130,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "34yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 22,
+      "end": 38,
+      "text": "four days weekly",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 60,
+      "end": 71,
+      "text": "once weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 146,
+  "created_at": "2026-10-07T01:39:20.839304Z",
+  "updated_at": "2026-10-07T01:39:20.839304Z",
+  "lead_time": 19.768
+},
+{
+  "text": "I turned 42 last month and asthma symptoms happen around three days each week.",
+  "id": 131,
+  "label": [
+    {
+      "start": 9,
+      "end": 11,
+      "text": "42",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 57,
+      "end": 77,
+      "text": "three days each week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 147,
+  "created_at": "2026-10-07T01:39:32.018729Z",
+  "updated_at": "2026-10-07T01:39:32.018729Z",
+  "lead_time": 10.836
+},
+{
+  "text": "I'm 28; most weekdays I'll have some wheeze or tightness.",
+  "id": 132,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "28",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 8,
+      "end": 21,
+      "text": "most weekdays",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 148,
+  "created_at": "2026-10-07T01:39:45.102717Z",
+  "updated_at": "2026-10-07T01:39:45.102717Z",
+  "lead_time": 12.756
+},
+{
+  "text": "Asthma tends to wake me on about three nights in a normal week.",
+  "id": 133,
+  "label": [
+    {
+      "start": 33,
+      "end": 62,
+      "text": "three nights in a normal week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 149,
+  "created_at": "2026-10-07T01:39:52.733773Z",
+  "updated_at": "2026-10-07T01:39:52.733773Z",
+  "lead_time": 7.305
+},
+{
+  "text": "Nearly every day I notice some asthma symptoms.",
+  "id": 134,
+  "label": [
+    {
+      "start": 0,
+      "end": 16,
+      "text": "Nearly every day",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 150,
+  "created_at": "2026-10-07T01:40:02.776587Z",
+  "updated_at": "2026-10-07T01:40:02.776587Z",
+  "lead_time": 9.763
+},
+{
+  "text": "I'd say I wake with wheeze once or twice most weeks.",
+  "id": 135,
+  "label": [
+    {
+      "start": 27,
+      "end": 51,
+      "text": "once or twice most weeks",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 151,
+  "created_at": "2026-10-07T01:40:15.727045Z",
+  "updated_at": "2026-10-07T01:40:15.727045Z",
+  "lead_time": 12.641
+},
+{
+  "text": "Symptoms crop up on roughly four days out of seven.",
+  "id": 136,
+  "label": [
+    {
+      "start": 28,
+      "end": 50,
+      "text": "four days out of seven",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 152,
+  "created_at": "2026-10-07T01:40:27.851381Z",
+  "updated_at": "2026-10-07T01:40:27.851381Z",
+  "lead_time": 11.815
+},
+{
+  "text": "My asthma interrupts my sleep most nights.",
+  "id": 137,
+  "label": [
+    {
+      "start": 30,
+      "end": 41,
+      "text": "most nights",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 153,
+  "created_at": "2026-10-07T01:40:34.358342Z",
+  "updated_at": "2026-10-07T01:40:34.358342Z",
+  "lead_time": 6.155
+},
+{
+  "text": "On two days in a normal week my chest usually feels tight.",
+  "id": 138,
+  "label": [
+    {
+      "start": 3,
+      "end": 28,
+      "text": "two days in a normal week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 154,
+  "created_at": "2026-10-07T01:40:42.642959Z",
+  "updated_at": "2026-10-07T01:40:42.642959Z",
+  "lead_time": 7.727
+},
+{
+  "text": "I tend to be woken by coughing from asthma about once weekly.",
+  "id": 139,
+  "label": [
+    {
+      "start": 49,
+      "end": 60,
+      "text": "once weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 155,
+  "created_at": "2026-10-07T01:40:57.107025Z",
+  "updated_at": "2026-10-07T01:40:57.107025Z",
+  "lead_time": 14.117
+},
+{
+  "text": "During a typical week, symptoms trouble me on five days.",
+  "id": 140,
+  "label": [
+    {
+      "start": 46,
+      "end": 55,
+      "text": "five days",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 156,
+  "created_at": "2026-10-07T01:41:04.072520Z",
+  "updated_at": "2026-10-07T01:41:04.072520Z",
+  "lead_time": 6.634
+},
+{
+  "text": "Most weeks there are three nights when asthma wakes me.",
+  "id": 141,
+  "label": [
+    {
+      "start": 21,
+      "end": 33,
+      "text": "three nights",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 157,
+  "created_at": "2026-10-07T01:41:15.725279Z",
+  "updated_at": "2026-10-07T01:41:15.725279Z",
+  "lead_time": 11.298
+},
+{
+  "text": "I get some wheezing every day of the week.",
+  "id": 142,
+  "label": [
+    {
+      "start": 20,
+      "end": 41,
+      "text": "every day of the week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 158,
+  "created_at": "2026-10-07T01:41:21.996005Z",
+  "updated_at": "2026-10-07T01:41:21.996005Z",
+  "lead_time": 5.937
+},
+{
+  "text": "Usually one night each week I'll wake because I'm wheezing.",
+  "id": 143,
+  "label": [
+    {
+      "start": 8,
+      "end": 27,
+      "text": "one night each week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 159,
+  "created_at": "2026-10-07T01:41:38.398159Z",
+  "updated_at": "2026-10-07T01:41:38.398159Z",
+  "lead_time": 16.086
+},
+{
+  "text": "Symptoms are there on maybe three or four days each week.",
+  "id": 144,
+  "label": [
+    {
+      "start": 28,
+      "end": 56,
+      "text": "three or four days each week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 160,
+  "created_at": "2026-10-07T01:42:08.661834Z",
+  "updated_at": "2026-10-07T01:42:08.661834Z",
+  "lead_time": 29.943
+},
+{
+  "text": "Asthma-related waking happens on most nights for me.",
+  "id": 145,
+  "label": [
+    {
+      "start": 33,
+      "end": 51,
+      "text": "most nights for me",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 161,
+  "created_at": "2026-10-07T01:42:15.357153Z",
+  "updated_at": "2026-10-07T01:42:15.357153Z",
+  "lead_time": 6.422
+},
+{
+  "text": "My breathing plays up around twice during the week.",
+  "id": 146,
+  "label": [
+    {
+      "start": 29,
+      "end": 50,
+      "text": "twice during the week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 162,
+  "created_at": "2026-10-07T01:42:46.555978Z",
+  "updated_at": "2026-10-07T01:42:46.555978Z",
+  "lead_time": 30.88
+},
+{
+  "text": "I wake in the night with asthma roughly four times in a normal week.",
+  "id": 147,
+  "label": [
+    {
+      "start": 40,
+      "end": 67,
+      "text": "four times in a normal week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 163,
+  "created_at": "2026-10-07T01:42:55.785552Z",
+  "updated_at": "2026-10-07T01:42:55.785552Z",
+  "lead_time": 8.937
+},
+{
+  "text": "On most weekdays my asthma gives me trouble.",
+  "id": 148,
+  "label": [
+    {
+      "start": 3,
+      "end": 16,
+      "text": "most weekdays",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 164,
+  "created_at": "2026-10-07T01:43:07.924036Z",
+  "updated_at": "2026-10-07T01:43:07.924036Z",
+  "lead_time": 11.81
+},
+{
+  "text": "I'd estimate asthma wakes me on two nights out of seven.",
+  "id": 149,
+  "label": [
+    {
+      "start": 32,
+      "end": 55,
+      "text": "two nights out of seven",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 165,
+  "created_at": "2026-10-07T01:43:21.708465Z",
+  "updated_at": "2026-10-07T01:43:21.708465Z",
+  "lead_time": 13.498
+},
+{
+  "text": "Symptoms are pretty much daily.",
+  "id": 150,
+  "label": [
+    {
+      "start": 25,
+      "end": 30,
+      "text": "daily",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 166,
+  "created_at": "2026-10-07T01:43:31.937506Z",
+  "updated_at": "2026-10-07T01:43:31.937506Z",
+  "lead_time": 9.899
+},
+{
+  "text": "Night waking from asthma is usually once per week.",
+  "id": 151,
+  "label": [
+    {
+      "start": 36,
+      "end": 49,
+      "text": "once per week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 167,
+  "created_at": "2026-10-07T01:43:38.472235Z",
+  "updated_at": "2026-10-07T01:43:38.472235Z",
+  "lead_time": 6.204
+},
+{
+  "text": "About five days out of seven I notice asthma symptoms.",
+  "id": 152,
+  "label": [
+    {
+      "start": 6,
+      "end": 28,
+      "text": "five days out of seven",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 168,
+  "created_at": "2026-10-07T01:43:45.200949Z",
+  "updated_at": "2026-10-07T01:43:45.200949Z",
+  "lead_time": 6.447
+},
+{
+  "text": "I wake with chest tightness on three nights most weeks.",
+  "id": 153,
+  "label": [
+    {
+      "start": 31,
+      "end": 54,
+      "text": "three nights most weeks",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 169,
+  "created_at": "2026-10-07T01:43:59.325608Z",
+  "updated_at": "2026-10-07T01:43:59.325608Z",
+  "lead_time": 13.823
+},
+{
+  "text": "My asthma is symptomatic only once during an average week.",
+  "id": 154,
+  "label": [
+    {
+      "start": 30,
+      "end": 57,
+      "text": "once during an average week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 170,
+  "created_at": "2026-10-07T01:44:10.026276Z",
+  "updated_at": "2026-10-07T01:44:10.027088Z",
+  "lead_time": 10.379
+},
+{
+  "text": "Usually six days of the week involve some wheeze.",
+  "id": 155,
+  "label": [
+    {
+      "start": 8,
+      "end": 28,
+      "text": "six days of the week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 171,
+  "created_at": "2026-10-07T01:44:18.075004Z",
+  "updated_at": "2026-10-07T01:44:18.075004Z",
+  "lead_time": 7.744
+},
+{
+  "text": "I get woken overnight by asthma every night.",
+  "id": 156,
+  "label": [
+    {
+      "start": 32,
+      "end": 43,
+      "text": "every night",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 172,
+  "created_at": "2026-10-07T01:44:24.686481Z",
+  "updated_at": "2026-10-07T01:44:24.686481Z",
+  "lead_time": 6.318
+},
+{
+  "text": "Asthma symptoms appear on alternate days, roughly three to four days weekly.",
+  "id": 157,
+  "label": [
+    {
+      "start": 50,
+      "end": 75,
+      "text": "three to four days weekly",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 173,
+  "created_at": "2026-10-07T01:44:37.040147Z",
+  "updated_at": "2026-10-07T01:44:37.040147Z",
+  "lead_time": 12.032
+},
+{
+  "text": "Most weeks I wake from asthma two or three nights.",
+  "id": 158,
+  "label": [
+    {
+      "start": 30,
+      "end": 49,
+      "text": "two or three nights",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 174,
+  "created_at": "2026-10-07T01:44:42.713656Z",
+  "updated_at": "2026-10-07T01:44:42.713656Z",
+  "lead_time": 5.337
+},
+{
+  "text": "My chest is fine most of the week, with symptoms on about one day.",
+  "id": 159,
+  "label": [
+    {
+      "start": 58,
+      "end": 65,
+      "text": "one day",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 175,
+  "created_at": "2026-10-07T01:44:48.561433Z",
+  "updated_at": "2026-10-07T01:44:48.561433Z",
+  "lead_time": 5.52
+},
+{
+  "text": "During a normal seven-day period, asthma bothers me on four days.",
+  "id": 160,
+  "label": [
+    {
+      "start": 55,
+      "end": 64,
+      "text": "four days",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 176,
+  "created_at": "2026-10-07T01:44:54.782182Z",
+  "updated_at": "2026-10-07T01:44:54.782182Z",
+  "lead_time": 5.88
+},
+{
+  "text": "I generally have two asthma-related night wakings each week.",
+  "id": 161,
+  "label": [
+    {
+      "start": 17,
+      "end": 59,
+      "text": "two asthma-related night wakings each week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 177,
+  "created_at": "2026-10-07T01:46:46.419423Z",
+  "updated_at": "2026-10-07T01:46:46.419423Z",
+  "lead_time": 111.322
+},
+{
+  "text": "32yo; asthma symptoms 4d\/wk, nocturnal waking 2x\/wk.",
+  "id": 162,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "32yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 22,
+      "end": 27,
+      "text": "4d\/wk",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 46,
+      "end": 51,
+      "text": "2x\/wk",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 178,
+  "created_at": "2026-10-07T01:47:01.051582Z",
+  "updated_at": "2026-10-07T01:47:01.051582Z",
+  "lead_time": 14.305
+},
+{
+  "text": "Age 46. Symptoms 3 days\/week. Night waking 1 night\/week.",
+  "id": 163,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "46",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 17,
+      "end": 28,
+      "text": "3 days\/week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 43,
+      "end": 55,
+      "text": "1 night\/week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 179,
+  "created_at": "2026-10-07T01:47:14.724123Z",
+  "updated_at": "2026-10-07T01:47:14.724123Z",
+  "lead_time": 13.303
+},
+{
+  "text": "19F, asthma sx 5d\/wk, wakes 3 nights\/wk.",
+  "id": 164,
+  "label": [
+    {
+      "start": 0,
+      "end": 2,
+      "text": "19",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 15,
+      "end": 20,
+      "text": "5d\/wk",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 28,
+      "end": 39,
+      "text": "3 nights\/wk",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 180,
+  "created_at": "2026-10-07T01:47:37.619885Z",
+  "updated_at": "2026-10-07T01:47:37.619885Z",
+  "lead_time": 22.564
+},
+{
+  "text": "61yo male: daytime asthma symptoms daily; nocturnal waking 4x\/week.",
+  "id": 165,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "61yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 35,
+      "end": 40,
+      "text": "daily",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 59,
+      "end": 66,
+      "text": "4x\/week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 181,
+  "created_at": "2026-10-07T01:47:50.674625Z",
+  "updated_at": "2026-10-07T01:47:50.674625Z",
+  "lead_time": 12.732
+},
+{
+  "text": "Age 25; sx 2d\/wk; asthma-related night waking absent.",
+  "id": 166,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "25",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 11,
+      "end": 16,
+      "text": "2d\/wk",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 46,
+      "end": 52,
+      "text": "absent",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 182,
+  "created_at": "2026-10-07T01:48:04.146908Z",
+  "updated_at": "2026-10-07T01:48:04.146908Z",
+  "lead_time": 13.128
+},
+{
+  "text": "44yo, wheeze 4 days\/week, nocturnal symptoms waking patient 2 nights\/week.",
+  "id": 167,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "44yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 13,
+      "end": 24,
+      "text": "4 days\/week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 60,
+      "end": 73,
+      "text": "2 nights\/week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 183,
+  "created_at": "2026-10-07T01:48:20.472560Z",
+  "updated_at": "2026-10-07T01:48:20.472560Z",
+  "lead_time": 15.982
+},
+{
+  "text": "17yo: asthma sx weekly x3 days; night waking x1\/week.",
+  "id": 168,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "17yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 23,
+      "end": 30,
+      "text": "x3 days",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 45,
+      "end": 52,
+      "text": "x1\/week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 184,
+  "created_at": "2026-10-07T01:48:32.284613Z",
+  "updated_at": "2026-10-07T01:48:32.284613Z",
+  "lead_time": 11.493
+},
+{
+  "text": "39F: symptoms most weekdays, waking due to asthma 3 nights\/week.",
+  "id": 169,
+  "label": [
+    {
+      "start": 0,
+      "end": 2,
+      "text": "39",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 14,
+      "end": 27,
+      "text": "most weekdays",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 50,
+      "end": 63,
+      "text": "3 nights\/week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 185,
+  "created_at": "2026-10-07T01:48:42.339926Z",
+  "updated_at": "2026-10-07T01:48:42.339926Z",
+  "lead_time": 9.693
+},
+{
+  "text": "52yo male, asthma symptoms 1d\/wk, no reported nocturnal waking.",
+  "id": 170,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "52yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 27,
+      "end": 32,
+      "text": "1d\/wk",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 34,
+      "end": 62,
+      "text": "no reported nocturnal waking",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 186,
+  "created_at": "2026-10-07T01:49:01.867438Z",
+  "updated_at": "2026-10-07T01:49:01.867438Z",
+  "lead_time": 19.166
+},
+{
+  "text": "Age 70: symptoms 6\/7 days; wakes due to asthma 5\/7 nights.",
+  "id": 171,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "70",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 17,
+      "end": 25,
+      "text": "6\/7 days",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 47,
+      "end": 57,
+      "text": "5\/7 nights",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 187,
+  "created_at": "2026-10-07T01:49:13.707797Z",
+  "updated_at": "2026-10-07T01:49:13.707797Z",
+  "lead_time": 11.448
+},
+{
+  "text": "29yo; daytime sx 3x\/week; nocturnal waking 2x\/week.",
+  "id": 172,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "29yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 17,
+      "end": 24,
+      "text": "3x\/week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 43,
+      "end": 50,
+      "text": "2x\/week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 188,
+  "created_at": "2026-10-07T01:49:26.443372Z",
+  "updated_at": "2026-10-07T01:49:26.443372Z",
+  "lead_time": 12.35
+},
+{
+  "text": "Clinical review: age 36, asthma symptoms 4 days weekly, night waking weekly.",
+  "id": 173,
+  "label": [
+    {
+      "start": 21,
+      "end": 23,
+      "text": "36",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 41,
+      "end": 54,
+      "text": "4 days weekly",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 69,
+      "end": 75,
+      "text": "weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 189,
+  "created_at": "2026-10-07T01:49:54.150782Z",
+  "updated_at": "2026-10-07T01:49:54.150782Z",
+  "lead_time": 27.344
+},
+{
+  "text": "48F reports asthma sx daily and nocturnal waking most nights.",
+  "id": 174,
+  "label": [
+    {
+      "start": 0,
+      "end": 2,
+      "text": "48",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 22,
+      "end": 27,
+      "text": "daily",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 49,
+      "end": 60,
+      "text": "most nights",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 190,
+  "created_at": "2026-10-07T01:50:05.949074Z",
+  "updated_at": "2026-10-07T01:50:05.949074Z",
+  "lead_time": 11.467
+},
+{
+  "text": "21yo male: wheeze 2 days\/week; asthma wakes patient once\/week.",
+  "id": 175,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "21yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 18,
+      "end": 29,
+      "text": "2 days\/week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 52,
+      "end": 61,
+      "text": "once\/week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 191,
+  "created_at": "2026-10-07T01:50:16.608612Z",
+  "updated_at": "2026-10-07T01:50:16.608612Z",
+  "lead_time": 10.361
+},
+{
+  "text": "Age 57. Symptomatic 5d\/week. Night waking 3 nights\/week.",
+  "id": 176,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "57",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 20,
+      "end": 27,
+      "text": "5d\/week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 42,
+      "end": 55,
+      "text": "3 nights\/week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 192,
+  "created_at": "2026-10-07T01:50:27.553000Z",
+  "updated_at": "2026-10-07T01:50:27.553000Z",
+  "lead_time": 10.586
+},
+{
+  "text": "I'm 27 and my asthma never wakes me at night.",
+  "id": 177,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "27",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 21,
+      "end": 44,
+      "text": "never wakes me at night",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 193,
+  "created_at": "2026-10-07T01:50:38.858129Z",
+  "updated_at": "2026-10-07T01:50:38.858129Z",
+  "lead_time": 10.998
+},
+{
+  "text": "I don't get asthma symptoms during a normal week.",
+  "id": 178,
+  "label": [
+    {
+      "start": 2,
+      "end": 48,
+      "text": "don't get asthma symptoms during a normal week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 194,
+  "created_at": "2026-10-07T01:50:47.212205Z",
+  "updated_at": "2026-10-07T01:50:47.212205Z",
+  "lead_time": 8.038
+},
+{
+  "text": "Patient aged 50 reports no asthma-related night waking.",
+  "id": 179,
+  "label": [
+    {
+      "start": 13,
+      "end": 15,
+      "text": "50",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 24,
+      "end": 54,
+      "text": "no asthma-related night waking",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 195,
+  "created_at": "2026-10-07T01:50:59.913417Z",
+  "updated_at": "2026-10-07T01:50:59.913417Z",
+  "lead_time": 12.416
+},
+{
+  "text": "I'm 30 and have no asthma symptoms on a typical day.",
+  "id": 180,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "30",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 16,
+      "end": 51,
+      "text": "no asthma symptoms on a typical day",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 196,
+  "created_at": "2026-10-07T01:51:08.156063Z",
+  "updated_at": "2026-10-07T01:51:08.156063Z",
+  "lead_time": 7.926
+},
+{
+  "text": "My asthma doesn't wake me at night.",
+  "id": 181,
+  "label": [
+    {
+      "start": 10,
+      "end": 34,
+      "text": "doesn't wake me at night",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 197,
+  "created_at": "2026-10-07T01:51:15.093495Z",
+  "updated_at": "2026-10-07T01:51:15.093495Z",
+  "lead_time": 6.624
+},
+{
+  "text": "I haven't had any daytime asthma symptoms this week.",
+  "id": 182,
+  "label": [
+    {
+      "start": 2,
+      "end": 51,
+      "text": "haven't had any daytime asthma symptoms this week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 198,
+  "created_at": "2026-10-07T01:51:27.364993Z",
+  "updated_at": "2026-10-07T01:51:27.364993Z",
+  "lead_time": 11.984
+},
+{
+  "text": "Asthma symptoms don't trouble me during an average week.",
+  "id": 183,
+  "label": [
+    {
+      "start": 16,
+      "end": 55,
+      "text": "don't trouble me during an average week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 199,
+  "created_at": "2026-10-07T01:51:34.829402Z",
+  "updated_at": "2026-10-07T01:51:34.829402Z",
+  "lead_time": 7.175
+},
+{
+  "text": "I sleep through every night without asthma waking me.",
+  "id": 184,
+  "label": [
+    {
+      "start": 28,
+      "end": 52,
+      "text": "without asthma waking me",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 200,
+  "created_at": "2026-10-07T01:51:44.467891Z",
+  "updated_at": "2026-10-07T01:51:44.467891Z",
+  "lead_time": 9.317
+},
+{
+  "text": "At 43, I have no weekly asthma symptoms and no asthma-related night waking.",
+  "id": 185,
+  "label": [
+    {
+      "start": 3,
+      "end": 5,
+      "text": "43",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 14,
+      "end": 39,
+      "text": "no weekly asthma symptoms",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 44,
+      "end": 74,
+      "text": "no asthma-related night waking",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 201,
+  "created_at": "2026-10-07T01:51:59.668887Z",
+  "updated_at": "2026-10-07T01:51:59.668887Z",
+  "lead_time": 14.863
+},
+{
+  "text": "Asthma never disturbs my sleep.",
+  "id": 186,
+  "label": [
+    {
+      "start": 7,
+      "end": 30,
+      "text": "never disturbs my sleep",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 202,
+  "created_at": "2026-10-07T01:52:05.814715Z",
+  "updated_at": "2026-10-07T01:52:05.814715Z",
+  "lead_time": 5.821
+},
+{
+  "text": "I don't experience wheeze, tightness or breathlessness during a usual week.",
+  "id": 187,
+  "label": [
+    {
+      "start": 2,
+      "end": 74,
+      "text": "don't experience wheeze, tightness or breathlessness during a usual week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 203,
+  "created_at": "2026-10-07T01:52:13.765702Z",
+  "updated_at": "2026-10-07T01:52:13.765702Z",
+  "lead_time": 7.634
+},
+{
+  "text": "No nocturnal waking due to asthma.",
+  "id": 188,
+  "label": [
+    {
+      "start": 0,
+      "end": 33,
+      "text": "No nocturnal waking due to asthma",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 204,
+  "created_at": "2026-10-07T01:52:19.300629Z",
+  "updated_at": "2026-10-07T01:52:19.300629Z",
+  "lead_time": 5.233
+},
+{
+  "text": "I'm 67 and asthma doesn't bother me during the day or wake me overnight.",
+  "id": 189,
+  "annotator": 1,
+  "annotation_id": 205,
+  "created_at": "2026-10-07T01:55:14.963527Z",
+  "updated_at": "2026-10-07T01:55:14.963527Z",
+  "lead_time": 175.328
+},
+{
+  "text": "Symptoms are absent throughout a normal week.",
+  "id": 190,
+  "label": [
+    {
+      "start": 13,
+      "end": 44,
+      "text": "absent throughout a normal week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 206,
+  "created_at": "2026-10-07T01:55:21.935123Z",
+  "updated_at": "2026-10-07T01:55:21.935123Z",
+  "lead_time": 6.628
+},
+{
+  "text": "I haven't been woken by asthma at all.",
+  "id": 191,
+  "label": [
+    {
+      "start": 2,
+      "end": 37,
+      "text": "haven't been woken by asthma at all",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 207,
+  "created_at": "2026-10-07T01:55:37.615454Z",
+  "updated_at": "2026-10-07T01:55:37.615454Z",
+  "lead_time": 15.371
+},
+{
+  "text": "I'm 34. I use my inhaler four times a week, but asthma symptoms bother me two days weekly.",
+  "id": 192,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "34",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 64,
+      "end": 89,
+      "text": "bother me two days weekly",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 208,
+  "created_at": "2026-10-07T01:55:59.455346Z",
+  "updated_at": "2026-10-07T01:55:59.455346Z",
+  "lead_time": 21.548
+},
+{
+  "text": "I go running three evenings a week; asthma wakes me once weekly.",
+  "id": 193,
+  "label": [
+    {
+      "start": 52,
+      "end": 63,
+      "text": "once weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 209,
+  "created_at": "2026-10-07T01:56:07.225759Z",
+  "updated_at": "2026-10-07T01:56:07.225759Z",
+  "lead_time": 7.432
+},
+{
+  "text": "20yo uses a reliever twice weekly but has symptoms on four days per week.",
+  "id": 194,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "20yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 54,
+      "end": 72,
+      "text": "four days per week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 210,
+  "created_at": "2026-10-07T01:56:16.503268Z",
+  "updated_at": "2026-10-07T01:56:16.503268Z",
+  "lead_time": 8.968
+},
+{
+  "text": "I'm 49 and have had asthma since I was 12; it wakes me two nights most weeks.",
+  "id": 195,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "49",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 55,
+      "end": 76,
+      "text": "two nights most weeks",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 211,
+  "created_at": "2026-10-07T01:56:30.634812Z",
+  "updated_at": "2026-10-07T01:56:30.634812Z",
+  "lead_time": 13.773
+},
+{
+  "text": "I take tablets three days each week, while asthma symptoms occur nearly every day.",
+  "id": 196,
+  "label": [
+    {
+      "start": 65,
+      "end": 81,
+      "text": "nearly every day",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 212,
+  "created_at": "2026-10-07T01:56:44.967949Z",
+  "updated_at": "2026-10-07T01:56:44.967949Z",
+  "lead_time": 14.014
+},
+{
+  "text": "37-year-old exercises twice weekly, has symptoms three days per week, and wakes from asthma once weekly.",
+  "id": 197,
+  "label": [
+    {
+      "start": 0,
+      "end": 11,
+      "text": "37-year-old",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 49,
+      "end": 68,
+      "text": "three days per week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 92,
+      "end": 103,
+      "text": "once weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 213,
+  "created_at": "2026-10-07T01:57:03.911926Z",
+  "updated_at": "2026-10-07T01:57:03.911926Z",
+  "lead_time": 18.621
+},
+{
+  "text": "My inhaler is used every morning, while asthma symptoms occur one day each week.",
+  "id": 198,
+  "label": [
+    {
+      "start": 62,
+      "end": 79,
+      "text": "one day each week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 214,
+  "created_at": "2026-10-07T01:57:15.314407Z",
+  "updated_at": "2026-10-07T01:57:15.314407Z",
+  "lead_time": 11.074
+},
+{
+  "text": "43yo says asthma wakes them twice weekly; they attend the gym four days a week.",
+  "id": 199,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "43yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 28,
+      "end": 40,
+      "text": "twice weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 215,
+  "created_at": "2026-10-07T01:57:27.126536Z",
+  "updated_at": "2026-10-07T01:57:27.126536Z",
+  "lead_time": 11.511
+},
+{
+  "text": "I'm 25. I take my inhaler twice a day, get symptoms four days a week, and asthma wakes me three nights weekly.",
+  "id": 200,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "25",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 52,
+      "end": 68,
+      "text": "four days a week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 90,
+      "end": 109,
+      "text": "three nights weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 216,
+  "created_at": "2026-10-07T01:57:38.994295Z",
+  "updated_at": "2026-10-07T01:57:38.994295Z",
+  "lead_time": 11.52
+},
+{
+  "text": "I'm 70. I walk three times a week, experience symptoms two days weekly, and wake because of asthma one night per week.",
+  "id": 201,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "70",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 55,
+      "end": 70,
+      "text": "two days weekly",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 99,
+      "end": 117,
+      "text": "one night per week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 217,
+  "created_at": "2026-10-07T01:58:01.007835Z",
+  "updated_at": "2026-10-07T01:58:01.007835Z",
+  "lead_time": 21.678
+},
+{
+  "text": "29yo uses a reliever most days, has symptoms five days out of seven, and is woken by asthma twice weekly.",
+  "id": 202,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "29yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 45,
+      "end": 67,
+      "text": "five days out of seven",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 92,
+      "end": 104,
+      "text": "twice weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 218,
+  "created_at": "2026-10-07T01:58:18.340836Z",
+  "updated_at": "2026-10-07T01:58:18.340836Z",
+  "lead_time": 16.987
+},
+{
+  "text": "I swim twice a week, use my inhaler every morning, and get asthma symptoms three days weekly.",
+  "id": 203,
+  "annotator": 1,
+  "annotation_id": 219,
+  "created_at": "2026-10-07T01:58:26.486772Z",
+  "updated_at": "2026-10-07T01:58:26.486772Z",
+  "lead_time": 7.813
+},
+{
+  "text": "I'm 38; I work four nights a week but asthma itself wakes me only once weekly.",
+  "id": 204,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "38",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 66,
+      "end": 77,
+      "text": "once weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 220,
+  "created_at": "2026-10-07T01:58:37.666884Z",
+  "updated_at": "2026-10-07T01:58:37.666884Z",
+  "lead_time": 10.872
+},
+{
+  "text": "Patient aged 45 takes medication twice daily and reports symptoms on five days each week.",
+  "id": 205,
+  "label": [
+    {
+      "start": 13,
+      "end": 15,
+      "text": "45",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 69,
+      "end": 88,
+      "text": "five days each week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 221,
+  "created_at": "2026-10-07T01:58:51.951504Z",
+  "updated_at": "2026-10-07T01:58:51.951504Z",
+  "lead_time": 13.963
+},
+{
+  "text": "I cycle three days per week. Asthma symptoms occur twice weekly and wake me one night a week.",
+  "id": 206,
+  "label": [
+    {
+      "start": 51,
+      "end": 63,
+      "text": "twice weekly",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 76,
+      "end": 92,
+      "text": "one night a week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 222,
+  "created_at": "2026-10-07T01:59:09.270173Z",
+  "updated_at": "2026-10-07T01:59:09.270173Z",
+  "lead_time": 16.965
+},
+{
+  "text": "Age 33. Preventer twice daily; symptoms 4d\/wk; night waking 2x\/wk.",
+  "id": 207,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "33",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 40,
+      "end": 45,
+      "text": "4d\/wk",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    },
+    {
+      "start": 60,
+      "end": 65,
+      "text": "2x\/wk",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 223,
+  "created_at": "2026-10-07T01:59:20.957357Z",
+  "updated_at": "2026-10-07T01:59:20.957357Z",
+  "lead_time": 11.33
+},
+{
+  "text": "I've had asthma for 20 years, I'm 41 now, and symptoms happen three days each week.",
+  "id": 208,
+  "label": [
+    {
+      "start": 34,
+      "end": 36,
+      "text": "41",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 62,
+      "end": 82,
+      "text": "three days each week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 224,
+  "created_at": "2026-10-07T01:59:34.415437Z",
+  "updated_at": "2026-10-07T01:59:34.415437Z",
+  "lead_time": 13.152
+},
+{
+  "text": "My daughter is 15; I'm 46 and asthma wakes me about twice weekly.",
+  "id": 209,
+  "label": [
+    {
+      "start": 23,
+      "end": 25,
+      "text": "46",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 52,
+      "end": 64,
+      "text": "twice weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 225,
+  "created_at": "2026-10-07T01:59:55.700050Z",
+  "updated_at": "2026-10-07T01:59:55.700050Z",
+  "lead_time": 20.956
+},
+{
+  "text": "I work out five days a week, but my asthma only causes symptoms on two of those days.",
+  "id": 210,
+  "label": [
+    {
+      "start": 67,
+      "end": 84,
+      "text": "two of those days",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 226,
+  "created_at": "2026-10-07T02:00:08.477187Z",
+  "updated_at": "2026-10-07T02:00:08.477187Z",
+  "lead_time": 12.434
+},
+{
+  "text": "I take my tablets every night, though asthma only wakes me around once per week.",
+  "id": 211,
+  "label": [
+    {
+      "start": 66,
+      "end": 79,
+      "text": "once per week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 227,
+  "created_at": "2026-10-07T02:00:15.171451Z",
+  "updated_at": "2026-10-07T02:00:15.171451Z",
+  "lead_time": 6.375
+},
+{
+  "text": "I'm 54. I sleep at my partner's three nights a week and asthma wakes me about two nights weekly.",
+  "id": 212,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "54",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 78,
+      "end": 95,
+      "text": "two nights weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 228,
+  "created_at": "2026-10-07T02:00:28.817047Z",
+  "updated_at": "2026-10-07T02:00:28.817047Z",
+  "lead_time": 13.334
+},
+{
+  "text": "Patient aged 60 uses reliever 3x\/week; asthma symptoms present 5d\/week.",
+  "id": 213,
+  "label": [
+    {
+      "start": 13,
+      "end": 15,
+      "text": "60",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 63,
+      "end": 70,
+      "text": "5d\/week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 229,
+  "created_at": "2026-10-07T02:00:40.983595Z",
+  "updated_at": "2026-10-07T02:00:40.983595Z",
+  "lead_time": 11.835
+},
+{
+  "text": "I've been using an inhaler for 12 years; I'm 31 and get symptoms four days weekly.",
+  "id": 214,
+  "label": [
+    {
+      "start": 45,
+      "end": 47,
+      "text": "31",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 65,
+      "end": 81,
+      "text": "four days weekly",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 230,
+  "created_at": "2026-10-07T02:00:50.281580Z",
+  "updated_at": "2026-10-07T02:00:50.281580Z",
+  "lead_time": 8.956
+},
+{
+  "text": "I work night shifts twice a week. Asthma wakes me on roughly three other nights each week.",
+  "id": 215,
+  "label": [
+    {
+      "start": 61,
+      "end": 89,
+      "text": "three other nights each week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 231,
+  "created_at": "2026-10-07T02:01:02.892355Z",
+  "updated_at": "2026-10-07T02:01:02.892355Z",
+  "lead_time": 12.294
+},
+{
+  "text": "I'm 22, train at the gym six days a week, and experience asthma symptoms about three days weekly.",
+  "id": 216,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "22",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 79,
+      "end": 96,
+      "text": "three days weekly",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 232,
+  "created_at": "2026-10-07T02:01:13.892626Z",
+  "updated_at": "2026-10-07T02:01:13.892626Z",
+  "lead_time": 10.67
+},
+{
+  "text": "I use my preventer inhaler twice a day.",
+  "id": 217,
+  "annotator": 1,
+  "annotation_id": 233,
+  "created_at": "2026-10-07T02:01:18.426366Z",
+  "updated_at": "2026-10-07T02:01:18.426366Z",
+  "lead_time": 4.193
+},
+{
+  "text": "I exercise four days a week and usually swim at weekends.",
+  "id": 218,
+  "annotator": 1,
+  "annotation_id": 234,
+  "created_at": "2026-10-07T02:01:20.808306Z",
+  "updated_at": "2026-10-07T02:01:20.808306Z",
+  "lead_time": 2.078
+},
+{
+  "text": "I've had asthma for 15 years and use two inhalers.",
+  "id": 219,
+  "annotator": 1,
+  "annotation_id": 235,
+  "created_at": "2026-10-07T02:01:23.288085Z",
+  "updated_at": "2026-10-07T02:01:23.288085Z",
+  "lead_time": 2.163
+},
+{
+  "text": "I use my reliever about three times a week.",
+  "id": 220,
+  "annotator": 1,
+  "annotation_id": 236,
+  "created_at": "2026-10-07T02:01:25.718607Z",
+  "updated_at": "2026-10-07T02:01:25.718607Z",
+  "lead_time": 2.125
+},
+{
+  "text": "I take another medicine once a week, but it isn't for asthma.",
+  "id": 221,
+  "annotator": 1,
+  "annotation_id": 237,
+  "created_at": "2026-10-07T02:01:28.351139Z",
+  "updated_at": "2026-10-07T02:01:28.351139Z",
+  "lead_time": 2.328
+},
+{
+  "text": "I work night shifts three nights a week.",
+  "id": 222,
+  "annotator": 1,
+  "annotation_id": 238,
+  "created_at": "2026-10-07T02:01:29.961494Z",
+  "updated_at": "2026-10-07T02:01:29.961494Z",
+  "lead_time": 1.302
+},
+{
+  "text": "I go running three evenings each week.",
+  "id": 223,
+  "annotator": 1,
+  "annotation_id": 239,
+  "created_at": "2026-10-07T02:01:31.399020Z",
+  "updated_at": "2026-10-07T02:01:31.399020Z",
+  "lead_time": 1.096
+},
+{
+  "text": "I take tablets on Monday, Wednesday and Friday.",
+  "id": 224,
+  "annotator": 1,
+  "annotation_id": 240,
+  "created_at": "2026-10-07T02:01:33.086505Z",
+  "updated_at": "2026-10-07T02:01:33.086505Z",
+  "lead_time": 1.402
+},
+{
+  "text": "I attend university four days a week.",
+  "id": 225,
+  "annotator": 1,
+  "annotation_id": 241,
+  "created_at": "2026-10-07T02:01:34.995462Z",
+  "updated_at": "2026-10-07T02:01:34.995462Z",
+  "lead_time": 1.614
+},
+{
+  "text": "I sleep at my partner's house twice a week.",
+  "id": 226,
+  "annotator": 1,
+  "annotation_id": 242,
+  "created_at": "2026-10-07T02:01:36.725459Z",
+  "updated_at": "2026-10-07T02:01:36.725459Z",
+  "lead_time": 1.414
+},
+{
+  "text": "I use a spacer every time I take my inhaler.",
+  "id": 227,
+  "annotator": 1,
+  "annotation_id": 243,
+  "created_at": "2026-10-07T02:01:38.732767Z",
+  "updated_at": "2026-10-07T02:01:38.732767Z",
+  "lead_time": 1.712
+},
+{
+  "text": "I have been on this inhaler for six years.",
+  "id": 228,
+  "annotator": 1,
+  "annotation_id": 244,
+  "created_at": "2026-10-07T02:01:39.996316Z",
+  "updated_at": "2026-10-07T02:01:39.996316Z",
+  "lead_time": 0.95
+},
+{
+  "text": "I collect my prescription once a month.",
+  "id": 229,
+  "annotator": 1,
+  "annotation_id": 245,
+  "created_at": "2026-10-07T02:01:41.447676Z",
+  "updated_at": "2026-10-07T02:01:41.447676Z",
+  "lead_time": 1.131
+},
+{
+  "text": "I play football two evenings a week.",
+  "id": 230,
+  "annotator": 1,
+  "annotation_id": 246,
+  "created_at": "2026-10-07T02:01:43.503196Z",
+  "updated_at": "2026-10-07T02:01:43.503196Z",
+  "lead_time": 1.738
+},
+{
+  "text": "I work from home three days per week.",
+  "id": 231,
+  "annotator": 1,
+  "annotation_id": 247,
+  "created_at": "2026-10-07T02:01:45.176375Z",
+  "updated_at": "2026-10-07T02:01:45.176375Z",
+  "lead_time": 1.325
+},
+{
+  "text": "My physiotherapy appointment is once weekly.",
+  "id": 232,
+  "annotator": 1,
+  "annotation_id": 248,
+  "created_at": "2026-10-07T02:01:50.718058Z",
+  "updated_at": "2026-10-07T02:01:50.718058Z",
+  "lead_time": 5.221
+},
+{
+  "text": "I take vitamin D every day.",
+  "id": 233,
+  "annotator": 1,
+  "annotation_id": 249,
+  "created_at": "2026-10-07T02:01:52.002874Z",
+  "updated_at": "2026-10-07T02:01:52.002874Z",
+  "lead_time": 0.953
+},
+{
+  "text": "I have owned my inhaler for two years.",
+  "id": 234,
+  "annotator": 1,
+  "annotation_id": 250,
+  "created_at": "2026-10-07T02:01:53.773337Z",
+  "updated_at": "2026-10-07T02:01:53.773337Z",
+  "lead_time": 1.433
+},
+{
+  "text": "I walk the dog twice each day.",
+  "id": 235,
+  "annotator": 1,
+  "annotation_id": 251,
+  "created_at": "2026-10-07T02:01:55.016808Z",
+  "updated_at": "2026-10-07T02:01:55.016808Z",
+  "lead_time": 0.915
+},
+{
+  "text": "I normally work five days a week.",
+  "id": 236,
+  "annotator": 1,
+  "annotation_id": 252,
+  "created_at": "2026-10-07T02:01:57.515748Z",
+  "updated_at": "2026-10-07T02:01:57.515748Z",
+  "lead_time": 2.204
+},
+{
+  "text": "My brother is 19 and also has asthma.",
+  "id": 237,
+  "label": [
+    {
+      "start": 14,
+      "end": 16,
+      "text": "19",
+      "labels": [
+        "AGE"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 253,
+  "created_at": "2026-10-07T02:02:06.099873Z",
+  "updated_at": "2026-10-07T02:02:06.099873Z",
+  "lead_time": 8.302
+},
+{
+  "text": "My daughter is a 14-year-old with eczema.",
+  "id": 238,
+  "label": [
+    {
+      "start": 17,
+      "end": 28,
+      "text": "14-year-old",
+      "labels": [
+        "AGE"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 254,
+  "created_at": "2026-10-07T02:02:14.266749Z",
+  "updated_at": "2026-10-07T02:02:14.266749Z",
+  "lead_time": 7.869
+},
+{
+  "text": "I was diagnosed with asthma when I was 11.",
+  "id": 239,
+  "annotator": 1,
+  "annotation_id": 255,
+  "created_at": "2026-10-07T02:02:18.495200Z",
+  "updated_at": "2026-10-07T02:02:18.495200Z",
+  "lead_time": 3.906
+},
+{
+  "text": "I started using inhalers at age 16.",
+  "id": 240,
+  "annotator": 1,
+  "annotation_id": 256,
+  "created_at": "2026-10-07T02:02:21.044283Z",
+  "updated_at": "2026-10-07T02:02:21.044283Z",
+  "lead_time": 2.247
+},
+{
+  "text": "I have lived with asthma for 25 years.",
+  "id": 241,
+  "annotator": 1,
+  "annotation_id": 257,
+  "created_at": "2026-10-07T02:02:24.502254Z",
+  "updated_at": "2026-10-07T02:02:24.502254Z",
+  "lead_time": 3.145
+},
+{
+  "text": "My 16-year-old brother has asthma, but I'm 28.",
+  "id": 242,
+  "label": [
+    {
+      "start": 3,
+      "end": 14,
+      "text": "16-year-old",
+      "labels": [
+        "AGE"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 258,
+  "created_at": "2026-10-07T02:02:42.779444Z",
+  "updated_at": "2026-10-07T02:02:42.779444Z",
+  "lead_time": 17.943
+},
+{
+  "text": "I'm 49 and was diagnosed when I was 13.",
+  "id": 243,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "49",
+      "labels": [
+        "AGE"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 259,
+  "created_at": "2026-10-07T02:02:47.961964Z",
+  "updated_at": "2026-10-07T02:02:47.961964Z",
+  "lead_time": 4.913
+},
+{
+  "text": "Patient is 36; asthma began at age 9.",
+  "id": 244,
+  "label": [
+    {
+      "start": 11,
+      "end": 13,
+      "text": "36",
+      "labels": [
+        "AGE"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 260,
+  "created_at": "2026-10-07T02:02:52.820701Z",
+  "updated_at": "2026-10-07T02:02:52.820701Z",
+  "lead_time": 4.566
+},
+{
+  "text": "I'm 55 and my 20-year-old son also uses an inhaler.",
+  "id": 245,
+  "label": [
+    {
+      "start": 14,
+      "end": 25,
+      "text": "20-year-old",
+      "labels": [
+        "AGE"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 261,
+  "created_at": "2026-10-07T02:03:00.758229Z",
+  "updated_at": "2026-10-07T02:03:00.758229Z",
+  "lead_time": 7.657
+},
+{
+  "text": "At 62, I've had asthma for about 30 years.",
+  "id": 246,
+  "label": [
+    {
+      "start": 3,
+      "end": 5,
+      "text": "62",
+      "labels": [
+        "AGE"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 262,
+  "created_at": "2026-10-07T02:03:08.612185Z",
+  "updated_at": "2026-10-07T02:03:08.612185Z",
+  "lead_time": 7.528
+},
+{
+  "text": "24yo patient says symptoms started when she was 10.",
+  "id": 247,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "24yo",
+      "labels": [
+        "AGE"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 263,
+  "created_at": "2026-10-07T02:03:16.598635Z",
+  "updated_at": "2026-10-07T02:03:16.598635Z",
+  "lead_time": 7.656
+},
+{
+  "text": "I'm 39; my daughter, who's 12, was recently diagnosed with asthma.",
+  "id": 248,
+  "label": [
+    {
+      "start": 27,
+      "end": 29,
+      "text": "12",
+      "labels": [
+        "AGE"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 264,
+  "created_at": "2026-10-07T02:03:22.556010Z",
+  "updated_at": "2026-10-07T02:03:22.556010Z",
+  "lead_time": 5.638
+},
+{
+  "text": "Patient aged 71 reports an asthma diagnosis 40 years ago.",
+  "id": 249,
+  "label": [
+    {
+      "start": 13,
+      "end": 15,
+      "text": "71",
+      "labels": [
+        "AGE"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 265,
+  "created_at": "2026-10-07T02:03:28.285816Z",
+  "updated_at": "2026-10-07T02:03:28.285816Z",
+  "lead_time": 5.398
+},
+{
+  "text": "I'm 18 now and first developed wheeze at age 7.",
+  "id": 250,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "18",
+      "labels": [
+        "AGE"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 266,
+  "created_at": "2026-10-07T02:03:32.438146Z",
+  "updated_at": "2026-10-07T02:03:32.438146Z",
+  "lead_time": 3.829
+},
+{
+  "text": "46-year-old patient has used inhalers since their twenties.",
+  "id": 251,
+  "label": [
+    {
+      "start": 0,
+      "end": 11,
+      "text": "46-year-old",
+      "labels": [
+        "AGE"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 267,
+  "created_at": "2026-10-07T02:03:39.333417Z",
+  "updated_at": "2026-10-07T02:03:39.333417Z",
+  "lead_time": 6.579
+},
+{
+  "text": "I'm 60 and my symptoms have been worse lately, but I can't say how many days a week they happen.",
+  "id": 252,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "60",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 53,
+      "end": 95,
+      "text": "can't say how many days a week they happen",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 268,
+  "created_at": "2026-10-07T02:04:05.784037Z",
+  "updated_at": "2026-10-07T02:04:05.784037Z",
+  "lead_time": 26.143
+},
+{
+  "text": "18-year-old patient says asthma sometimes wakes them at night but cannot estimate how often.",
+  "id": 253,
+  "label": [
+    {
+      "start": 0,
+      "end": 11,
+      "text": "18-year-old",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 32,
+      "end": 91,
+      "text": "sometimes wakes them at night but cannot estimate how often",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 269,
+  "created_at": "2026-10-07T02:05:03.254577Z",
+  "updated_at": "2026-10-07T02:20:05.852832Z",
+  "lead_time": 68.06700000000001
+},
+{
+  "text": "I recently turned 39. Some weeks I'm completely fine and other weeks I have symptoms most days.",
+  "id": 254,
+  "label": [
+    {
+      "start": 18,
+      "end": 20,
+      "text": "39",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 22,
+      "end": 94,
+      "text": "Some weeks I'm completely fine and other weeks I have symptoms most days",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 270,
+  "created_at": "2026-10-07T02:05:23.157748Z",
+  "updated_at": "2026-10-07T02:19:52.249077Z",
+  "lead_time": 32.756
+},
+{
+  "text": "Patient aged 46 says night waking happens occasionally, although they are unsure how many nights per week.",
+  "id": 255,
+  "label": [
+    {
+      "start": 13,
+      "end": 15,
+      "text": "46",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 42,
+      "end": 105,
+      "text": "occasionally, although they are unsure how many nights per week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 271,
+  "created_at": "2026-10-07T02:07:09.189258Z",
+  "updated_at": "2026-10-07T02:19:37.429569Z",
+  "lead_time": 114.738
+},
+{
+  "text": "My symptoms come and go; some weeks they're frequent and other weeks I barely notice them.",
+  "id": 256,
+  "label": [
+    {
+      "start": 12,
+      "end": 89,
+      "text": "come and go; some weeks they're frequent and other weeks I barely notice them",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 272,
+  "created_at": "2026-10-07T02:09:22.006648Z",
+  "updated_at": "2026-10-07T02:19:26.679783Z",
+  "lead_time": 139.075
+},
+{
+  "text": "Asthma wakes me now and then, but I couldn't give an exact weekly number.",
+  "id": 257,
+  "label": [
+    {
+      "start": 7,
+      "end": 72,
+      "text": "wakes me now and then, but I couldn't give an exact weekly number",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 273,
+  "created_at": "2026-10-07T02:12:06.947316Z",
+  "updated_at": "2026-10-07T02:19:18.270811Z",
+  "lead_time": 174.129
+},
+{
+  "text": "I seem to have symptoms fairly often during the week.",
+  "id": 258,
+  "label": [
+    {
+      "start": 31,
+      "end": 52,
+      "text": "often during the week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 274,
+  "created_at": "2026-10-07T02:12:16.453873Z",
+  "updated_at": "2026-10-07T02:12:16.453873Z",
+  "lead_time": 8.896
+},
+{
+  "text": "Night waking is occasional rather than regular.",
+  "id": 259,
+  "label": [
+    {
+      "start": 16,
+      "end": 26,
+      "text": "occasional",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 275,
+  "created_at": "2026-10-07T02:12:23.071863Z",
+  "updated_at": "2026-10-07T02:12:23.071863Z",
+  "lead_time": 6.329
+},
+{
+  "text": "Some weeks I wake several times with asthma and other weeks not at all.",
+  "id": 260,
+  "label": [
+    {
+      "start": 18,
+      "end": 70,
+      "text": "several times with asthma and other weeks not at all",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 276,
+  "created_at": "2026-10-07T02:20:40.338492Z",
+  "updated_at": "2026-10-07T02:20:40.338492Z",
+  "lead_time": 163.307
+},
+{
+  "text": "My asthma symptoms are intermittent and I haven't kept track of the days.",
+  "id": 261,
+  "label": [
+    {
+      "start": 23,
+      "end": 72,
+      "text": "intermittent and I haven't kept track of the days",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 277,
+  "created_at": "2026-10-07T02:20:51.969466Z",
+  "updated_at": "2026-10-07T02:20:51.969466Z",
+  "lead_time": 11.284
+},
+{
+  "text": "im 25 and asthma bothers me like 4 days a week.",
+  "id": 262,
+  "label": [
+    {
+      "start": 3,
+      "end": 5,
+      "text": "25",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 33,
+      "end": 46,
+      "text": "4 days a week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 278,
+  "created_at": "2026-10-07T02:20:59.573415Z",
+  "updated_at": "2026-10-07T02:20:59.573415Z",
+  "lead_time": 7.306
+},
+{
+  "text": "im 32, wake up wheezy maybe 2 nights most weeks.",
+  "id": 263,
+  "label": [
+    {
+      "start": 3,
+      "end": 5,
+      "text": "32",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 28,
+      "end": 47,
+      "text": "2 nights most weeks",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 279,
+  "created_at": "2026-10-07T02:21:10.267170Z",
+  "updated_at": "2026-10-07T02:21:10.267170Z",
+  "lead_time": 10.353
+},
+{
+  "text": "27yo here, symptoms probs 3 days a week.",
+  "id": 264,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "27yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 26,
+      "end": 39,
+      "text": "3 days a week",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 280,
+  "created_at": "2026-10-07T02:21:21.378031Z",
+  "updated_at": "2026-10-07T02:21:21.378031Z",
+  "lead_time": 10.733
+},
+{
+  "text": "asthma wakes me like three nights a week tbh.",
+  "id": 265,
+  "label": [
+    {
+      "start": 21,
+      "end": 40,
+      "text": "three nights a week",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 281,
+  "created_at": "2026-10-07T02:21:32.288265Z",
+  "updated_at": "2026-10-07T02:21:32.288265Z",
+  "lead_time": 10.532
+},
+{
+  "text": "I'm 19, get wheezy maybe once or twice weekly.",
+  "id": 266,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "19",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 25,
+      "end": 45,
+      "text": "once or twice weekly",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 282,
+  "created_at": "2026-10-07T02:21:41.857469Z",
+  "updated_at": "2026-10-07T02:21:41.857469Z",
+  "lead_time": 9.229
+},
+{
+  "text": "age 40, symptoms around 5 days\/wk.",
+  "id": 267,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "40",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 24,
+      "end": 33,
+      "text": "5 days\/wk",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 283,
+  "created_at": "2026-10-07T02:21:48.690769Z",
+  "updated_at": "2026-10-07T02:21:48.690769Z",
+  "lead_time": 6.518
+},
+{
+  "text": "im 36 and it wakes me roughly twice a wk.",
+  "id": 268,
+  "label": [
+    {
+      "start": 3,
+      "end": 5,
+      "text": "36",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "text": "twice a wk",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 284,
+  "created_at": "2026-10-07T02:22:17.703631Z",
+  "updated_at": "2026-10-07T02:22:17.703631Z",
+  "lead_time": 28.67
+},
+{
+  "text": "22yo, asthma plays up most weekdays.",
+  "id": 269,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "22yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 22,
+      "end": 35,
+      "text": "most weekdays",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 285,
+  "created_at": "2026-10-07T02:22:28.946457Z",
+  "updated_at": "2026-10-07T02:22:28.946457Z",
+  "lead_time": 10.9
+},
+{
+  "text": "I'm 51 and wake coughing from asthma about 3 nights weekly.",
+  "id": 270,
+  "label": [
+    {
+      "start": 4,
+      "end": 6,
+      "text": "51",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 43,
+      "end": 58,
+      "text": "3 nights weekly",
+      "labels": [
+        "NIGHT_WAKING"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 286,
+  "created_at": "2026-10-07T02:22:38.654660Z",
+  "updated_at": "2026-10-07T02:22:38.654660Z",
+  "lead_time": 9.367
+},
+{
+  "text": "16yo with asthma, symptoms pretty much every day.",
+  "id": 271,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "16yo",
+      "labels": [
+        "AGE"
+      ]
+    },
+    {
+      "start": 39,
+      "end": 48,
+      "text": "every day",
+      "labels": [
+        "SYMPTOM_FREQ"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 287,
+  "created_at": "2026-10-07T02:22:47.570563Z",
+  "updated_at": "2026-10-07T02:22:47.570563Z",
+  "lead_time": 8.588
+}
+]
